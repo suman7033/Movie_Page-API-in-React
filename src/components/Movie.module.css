@@ -1,9 +1,10 @@
-/* .movies-list {
+.movies-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    background-color: red;
 }
-/* .movie-item {
+.movie-item {
     width: 200px;
     margin: 10px;
     padding: 10px;
@@ -11,5 +12,8 @@
     border-radius: 5px;
     text-align: center;
     background-color: #f0f0f0;
-} */
-  
+    background-color: red;
+} 
+.btn{
+    background-color: red;
+}
